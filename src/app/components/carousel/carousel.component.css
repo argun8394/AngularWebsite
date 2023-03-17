@@ -1,0 +1,14 @@
+.text-slider {
+  font: normal normal bold 63px/89px Arial;
+  color: #F8CD10;
+}
+
+
+@media screen and (max-width: 1024px) {
+  div img {
+   width: 50%;
+   height: 50%;
+  }
+
+
+}

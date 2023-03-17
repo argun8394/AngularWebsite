@@ -1,0 +1,31 @@
+.home-page{
+  background: transparent url('../../../assets/Slider_Image_01.png') 0% 0% no-repeat padding-box;
+
+}
+
+.play-now {
+ background: transparent url('../../../assets/Button.png') ;
+ background-repeat: no-repeat;
+    background-size: 100% 100%,cover;
+    background-position: 50%;
+    max-width: 100%;
+
+}
+
+div p {
+  font:  normal normal 600 40px/56px Arial;
+}
+
+
+@media screen and (max-width: 1024px) {
+  div a {
+    max-width: 400px;
+    margin-bottom: 10px;
+  }
+
+  div p {
+    font:  normal normal 300 20px/38px Arial;
+  }
+
+
+}

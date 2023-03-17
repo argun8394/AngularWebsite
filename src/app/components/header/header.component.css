@@ -1,0 +1,13 @@
+div a {
+  font: normal normal 600 30px/43px Arial;
+}
+
+@media screen and (max-width: 1024px) {
+  div a {
+    font: normal normal 200 15px/30px Arial;
+  }
+
+  .logo {
+    height: 100%;
+  }
+}
